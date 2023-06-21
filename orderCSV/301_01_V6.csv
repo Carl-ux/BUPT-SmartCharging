@@ -1,0 +1,2 @@
+record_id,user_name,user_id,charger_id,charged_amount,create_time,begin_time,end_time,charged_time,charging_cost,service_cost,total_cost,is_brake
+3,301_01_V6,40,2,45.00,2023-02-03 08:32:52,2023-02-03 07:02:33,2023-02-03 08:32:51,5417,31.50,36.00,67.50,false

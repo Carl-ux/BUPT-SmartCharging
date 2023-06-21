@@ -1,0 +1,11 @@
+server:
+  port: 8000
+datasource:
+  driverName: mysql
+  host: 101.42.237.58
+  port: 3306
+  database: BUPT_SmartCharging
+  username: remote
+  password: 123456
+  charset: utf8
+  loc: Asia/Shanghai
