@@ -65,4 +65,5 @@ docker run -p 8000:8000 my-go-app
 ```
 
 ## License
-![GitHub](https://img.shields.io/github/license/Carl-ux/BUPT-SmartCharging)
+![Static Badge](https://img.shields.io/badge/License-MIT-purpule)
+
